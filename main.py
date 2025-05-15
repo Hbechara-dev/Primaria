@@ -44,7 +44,7 @@ class VentanaPrincipal:
         # Aquí puedes colocar tu información personal
         self.label_nombre = tk.Label(
             self.frame_autor, 
-            text="HERMES BECHARA CORDOBA",
+            text="HERMES ANDRES BECHARA CORDOBA",
             font=self.subtitulo_font,
             bg="#ffffff"
         )
